@@ -10,6 +10,6 @@ const c=()=>{
     return "Hello"
 }
 
-
-
-
+const g=()=>{
+    return "Hello"
+}
