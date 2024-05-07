@@ -12,10 +12,7 @@ const c=()=>{
 
 
 
-
-
-
-const d=()=>{
+const hello=()=>{
     return 1
 }
 
