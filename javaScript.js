@@ -7,6 +7,6 @@ const b=()=>{
 }
 
 const c=()=>{
-    return "Hi!"
+    return "Hello"
 }
 
