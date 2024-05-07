@@ -10,9 +10,7 @@ const c=()=>{
     return "Hello"
 }
 
-
-
-const hello=()=>{
+const e=()=>{
     return 1
 }
 
