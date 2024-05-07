@@ -6,3 +6,8 @@ const b=()=>{
     return 1;
 }
 
+const c=()=>{
+    return "1";
+}
+
+
