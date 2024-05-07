@@ -7,11 +7,9 @@ const b=()=>{
 }
 
 const c=()=>{
-    return "Hi!"
+    return 1
 }
 
-const c=()=>{
-    return "1";
-}
+
 
 
