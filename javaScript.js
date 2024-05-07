@@ -7,7 +7,7 @@ const b=()=>{
 }
 
 const c=()=>{
-    return 1
+    return "Hello"
 }
 
 
