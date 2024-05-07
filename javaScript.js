@@ -2,16 +2,22 @@ const a=()=>{
     alert("aaa")
 }
 
-const b=()=>{
-    return "1"
+const b1=()=>{
+    return "111"
 }
 
 const c=()=>{
     return "Hello"
 }
 
+
 const g=()=>{
     return "Hello"
+
+const e=()=>{
+    return 1
+}
+
 
     
 }
