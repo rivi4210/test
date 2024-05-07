@@ -3,7 +3,11 @@ const a=()=>{
 }
 
 const b=()=>{
-    return 1;
+    return "1"
+}
+
+const c=()=>{
+    return "Hi!"
 }
 
 const c=()=>{
