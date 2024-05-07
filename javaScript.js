@@ -10,9 +10,14 @@ const c=()=>{
     return "Hello"
 }
 
+
+const g=()=>{
+    return "Hello"
+
 const e=()=>{
     return 1
 }
 
 
-
+    
+}
