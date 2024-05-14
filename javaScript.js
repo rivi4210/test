@@ -10,11 +10,6 @@ const c=()=>{
     return "Hello"
 }
 
-
-
-
-
-
 const d=()=>{
     return 1
 }
